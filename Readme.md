@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [kerpichonka](https://up.htmlacademy.ru/htmlcss/20/user/6).
-* Наставник: [Єбашу сам](https://up.htmlacademy.ru/htmlcss/20/user/4839).
+* Студент: [kerpichonka]
+* Наставник: [Єбашу сам]
 
 ---
 
